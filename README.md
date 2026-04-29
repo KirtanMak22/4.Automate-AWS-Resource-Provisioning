@@ -1,12 +1,12 @@
 # 4.Automate-AWS-Resource-Provisioning
 
-•	Purpose: Create infrastructure using scripts (no manual clicks)
+~ Purpose: Create infrastructure using scripts (no manual clicks)
 
-•	AWS Services:
+~ AWS Services:
 
-•	AWS IAM
-•	EC2, S3
-•	boto3
+          AWS IAM
+          EC2, S3
+          boto3
 
 S3 bucket::
 <img width="1010" height="286" alt="1" src="https://github.com/user-attachments/assets/56f2cff3-9628-4d7d-9dff-ec53e11afccd" />
